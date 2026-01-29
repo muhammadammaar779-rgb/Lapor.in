@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  width: 90%;
+  max-width: 500px;
+  background: white;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input, textarea, button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+button {
+  background: #6a5acd;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.note {
+  font-size: 12px;
+  color: gray;
+  margin-top: 10px;
+}
